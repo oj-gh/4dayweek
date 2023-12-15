@@ -1,4 +1,4 @@
-# 4 Day Week Initiative
+# 4 Day Week Hub
 
 Welcome to the space dedicated to all things related to the 4 Day Week movement – specifically, the truly balanced 4x8hrs working week. The intention behind this page is to serve as an educational hub and a starting point for both company owners and employees who are considering a transition to a 4 Day Week model. Here, you’ll find resources, strategies, and an advocates committed to promoting a better work-life balance through a shortened workweek without sacrificing productivity or well-being.
 
