@@ -4,14 +4,14 @@ Welcome to the space dedicated to all things related to the 4 Day Week movement 
 
 ## Advocates
 
-Advocates are pushing for the 4 Day Week in various corners of the globe. Below is a table of prominent supporters, including their names, countries, and links to their work or organizations.
+Advocates are pushing for the 4 Day Week in various corners of the globe. Below is a table of prominent supporters.
 
 | Name              | Country       | Link                                 |
 |-------------------|---------------|--------------------------------------|
-| Advocate 1        | Country 1     | [Link](#)                            |
-| Advocate 2        | Country 2     | [Link](#)                            |
-| Advocate 3        | Country 3     | [Link](#)                            |
-| ...               | ...           | ...                                  |
+| 4 Day Week Global        | New Zealand     | [4 Day Week Global](https://www.4dayweek.com/)                            |
+| Autonomy        | United Kingdom     | [Autonomy](https://autonomy.work/)                            |
+| 4 Day Week Campaign        | United Kingdom     | [4 Day Week Campaign](https://www.4dayweek.co.uk/)                            |
+| The Four Day Week Campaign               | USA           | [The Four Day Week Campaign](https://workfour.org/)                                  |
 
 *Note: Feel free to add more advocates to this table by submitting a pull request with their details.*
 
@@ -19,9 +19,6 @@ Advocates are pushing for the 4 Day Week in various corners of the globe. Below 
 
 This section is dedicated to documenting the progress and adoption of the 4 Day Week by country. Please add countries in alphabetical order for consistency.
 
-- Country A
-- Country B
-- Country C
 - ...
 
 *Note: Ensure that country details are neatly listed alphabetically.*
@@ -30,20 +27,18 @@ This section is dedicated to documenting the progress and adoption of the 4 Day 
 
 Below is a list of companies that have implemented the true 4 Day Week (4x8hrs) model. This is not to be confused with seasonal variations or 4x10hrs workweeks.
 
-- Company A
-- Company B
-- Company C
-- ...
+- [OkJob 120 companies](https://www.okjob.io/companies)
+- [Accredited 4 Day Week Employers](https://www.4dayweek.co.uk/employers)
 
-*Note: Please add companies alphabetically and verify their 4 Day Week model before submission.*
+*Note: Instead of individual companies add lists (sites, blog posts, CSVs, etc.) of verifed companies that hire for 4 Day Weeks.*
 
 ## Job Boards
 
 In this section, you can find dedicated job boards that list opportunities within companies that offer a 4 Day Week.
 
-1. Job Board A
-2. Job Board B
-3. Job Board C
+1. [OkJob](https://www.okjob.io/jobs)
+2. ...
+3. ...
 
 *Note: This list shall be meticulously maintained. Only job boards dedicated to 4 Day Week opportunities are included.*
 
@@ -54,22 +49,16 @@ This segment is split into tools for employers and tools for employees to assist
 ### For Employers
 
 - Tool 1
-- Tool 2
-- Tool 3
 
 ### For Employees
 
-- Tool A
-- Tool B
-- Tool C
+- Tool 1
 
 ## Resources
 
 The Resources section comprises a compilation of valuable research papers, surveys, and studies that provide insights into the 4 Day Week implementation and its effects. It excludes links from mainstream news sites and blogs.
 
 1. Resource A
-2. Resource B
-3. Resource C
 
 *Note: Submissions for this section should be data-driven and of academic or professional caliber.*
 
