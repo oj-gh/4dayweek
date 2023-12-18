@@ -41,10 +41,10 @@ Below you find links to lists of companies that have implemented the 4 Day Week 
 In this section, you can find dedicated job boards that list opportunities within companies that offer a 4 Day Week.
 
 1. [OkJob.io](https://www.okjob.io/jobs)
-2. ...
-3. ...
+2. [4dayweek.io](https://4dayweek.io)
+3. [fourdayweek.co.uk](https://fourdayweek.co.uk/)
 
-*Note: This list shall be meticulously maintained. Only job boards dedicated to 4 Day Week opportunities are included.*
+*Note: Only job boards dedicated to 4-Day Week opportunities are included. The sites need to have active listings.*
 
 ## Tools
 
@@ -52,11 +52,11 @@ This segment is split into tools for employers and tools for employees to assist
 
 ### For Employers
 
-- Tool 1
+- ...
 
 ### For Employees
 
-- Tool 1
+- ...
 
 ## Resources
 
@@ -67,11 +67,5 @@ What       | Link                                 |
 Subreddit     | [4DayWorkWeek](https://www.reddit.com/r/4DayWorkWeek/) |
 
 *Note: Submissions for this section should be data-driven and of academic or professional caliber.*
-
-## Miscellaneous
-
-Any additional information, stories, or relevant content that does not fit into the above categories can be included here. This might encompass personal testimonials, case studies, podcasts, or videos on the 4 Day Week topic.
-
----
 
 When contributing to this repository, please adhere to the guidelines as stipulated and ensure that your additions or edits help foster a comprehensive and credible hub for the 4 Day Week initiative. Your support in making this a valuable resource is greatly appreciated.
