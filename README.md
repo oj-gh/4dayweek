@@ -25,10 +25,13 @@ This section is dedicated to documenting the progress and adoption of the 4 Day 
 
 ## Companies
 
-Below is a list of companies that have implemented the true 4 Day Week (4x8hrs) model. This is not to be confused with seasonal variations or 4x10hrs workweeks.
+Below is a list of companies that have implemented the true 4 Day Week (4x8hrs) model. The names of companies from the lists below will largely overlap, but some people prefer fast search tools while others favor blog posts. Therefore, we include them all. 
 
-- [OkJob 120 companies](https://www.okjob.io/companies)
-- [Accredited 4 Day Week Employers](https://www.4dayweek.co.uk/employers)
+- OkJob - [120 companies](https://www.okjob.io/companies)
+- 4 Day Week Campaign - [Accredited 4 Day Week Employers](https://www.4dayweek.co.uk/employers)
+- Himalayas - [110 Companies That Have Adopted the 4-day Workweek in 2023](https://himalayas.app/advice/companies-with-4-day-workweeks)
+- Buildremote - [339 Companies With 4-Day Work Weeks (Oct 2023)](https://buildremote.co/four-day-week/4-day-work-week-companies/)
+- BuiltIn - [25 Companies With 4-Day Work Weeks](https://builtin.com/company-culture/companies-with-4-day-work-weeks)
 
 *Note: Instead of individual companies add lists (sites, blog posts, CSVs, etc.) of verifed companies that hire for 4 Day Weeks.*
 
