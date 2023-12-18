@@ -17,9 +17,15 @@ Advocates are pushing for the 4 Day Week in various corners of the globe. Below 
 
 ## Countries
 
-This section is dedicated to documenting the progress and adoption of the 4 Day Week by country. Please add countries in alphabetical order for consistency.
+This section is dedicated to documenting the progress and adoption/trialing of the 4 Day Week by country. Please add countries in alphabetical order for consistency.
 
-- ...
+- Australia 🇦🇺 ([source 1](https://www.example.com/) | [source 2](https://www.example.com/))
+- Iceland 🇮🇸 
+- Ireland 🇮🇪
+- New Zealand 🇳🇿
+- Portugal 🇵🇹
+- Spain 🇪🇸
+- UK 🇬🇧 
 
 *Note: Ensure that country details are neatly listed alphabetically.*
 
@@ -33,6 +39,7 @@ Below you find links to lists of companies that have implemented the 4 Day Week 
 - Himalayas - [110 Companies That Have Adopted the 4-day Workweek in 2023](https://himalayas.app/advice/companies-with-4-day-workweeks)
 - Buildremote - [339 Companies With 4-Day Work Weeks (Oct 2023)](https://buildremote.co/four-day-week/4-day-work-week-companies/)
 - BuiltIn - [25 Companies With 4-Day Work Weeks](https://builtin.com/company-culture/companies-with-4-day-work-weeks)
+- Rafaelcamargo - [65 companies](https://4dayweek.rafaelcamargo.com/)
 
 *Note: Instead of individual companies add lists (sites, blog posts, CSVs, etc.) of verifed companies that hire for 4 Day Weeks.*
 
