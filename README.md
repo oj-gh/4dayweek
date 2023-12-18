@@ -25,9 +25,10 @@ This section is dedicated to documenting the progress and adoption of the 4 Day 
 
 ## Companies
 
-Below is a list of companies that have implemented the true 4 Day Week (4x8hrs) model. The names of companies from the lists below will largely overlap, but some people prefer fast search tools while others favor blog posts. Therefore, we include them all. 
+Below you find links to lists of companies that have implemented the 4 Day Week (4x8hrs) model. The names of companies from the lists below will largely overlap, but some people prefer fast search tools while others favor reading blog posts. Therefore, we include them all. 
 
-- OkJob - [120 companies](https://www.okjob.io/companies)
+- OkJob - [120 Companies](https://www.okjob.io/companies)
+- 4dayweek - [300+ Companies with a 4 Day Work Week](https://4dayweek.io/companies)
 - 4 Day Week Campaign - [Accredited 4 Day Week Employers](https://www.4dayweek.co.uk/employers)
 - Himalayas - [110 Companies That Have Adopted the 4-day Workweek in 2023](https://himalayas.app/advice/companies-with-4-day-workweeks)
 - Buildremote - [339 Companies With 4-Day Work Weeks (Oct 2023)](https://buildremote.co/four-day-week/4-day-work-week-companies/)
@@ -39,7 +40,7 @@ Below is a list of companies that have implemented the true 4 Day Week (4x8hrs) 
 
 In this section, you can find dedicated job boards that list opportunities within companies that offer a 4 Day Week.
 
-1. [OkJob](https://www.okjob.io/jobs)
+1. [OkJob.io](https://www.okjob.io/jobs)
 2. ...
 3. ...
 
@@ -59,9 +60,11 @@ This segment is split into tools for employers and tools for employees to assist
 
 ## Resources
 
-The Resources section comprises a compilation of valuable research papers, surveys, and studies that provide insights into the 4 Day Week implementation and its effects. It excludes links from mainstream news sites and blogs.
+The Resources section comprises a compilation of valuable research papers, surveys, discussions, and studies that provide insights into the 4 Day Week implementation and its effects. It excludes links from mainstream news sites and blogs (unless it includes valuable research papers, surveys, or studies).
 
-1. Resource A
+What       | Link                                 |
+---------------|--------------------------------------|
+Subreddit     | [4DayWorkWeek](https://www.reddit.com/r/4DayWorkWeek/) |
 
 *Note: Submissions for this section should be data-driven and of academic or professional caliber.*
 
