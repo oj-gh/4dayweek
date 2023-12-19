@@ -71,7 +71,10 @@ The Resources section comprises a compilation of valuable research papers, surve
 
 What       | Link                                 |
 ---------------|--------------------------------------|
-Subreddit     | [4DayWorkWeek](https://www.reddit.com/r/4DayWorkWeek/) |
+Reddit     | [4DayWorkWeek](https://www.reddit.com/r/4DayWorkWeek/) |
+Reddit     | [FourDayWorkWeek](https://www.reddit.com/r/FourDayWorkWeek/) |
+
+
 
 *Note: Submissions for this section should be data-driven and of academic or professional caliber.*
 
