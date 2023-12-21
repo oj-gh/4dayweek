@@ -19,7 +19,7 @@ Advocates are pushing for the 4 Day Week in various corners of the globe. Below 
 
 This section is dedicated to documenting the progress and adoption/trialing of the 4 Day Week by country. Please add countries in alphabetical order for consistency.
 
-- Australia 🇦🇺 ([source 1](https://www.example.com/) | [source 2](https://www.example.com/))
+- Australia 🇦🇺
 - Iceland 🇮🇸 
 - Ireland 🇮🇪
 - New Zealand 🇳🇿
@@ -49,8 +49,8 @@ Below you find links to lists of companies that have implemented the 4 Day Week 
 In this section, you can find dedicated job boards that list opportunities within companies that offer a 4 Day Week.
 
 1. [OkJob.io](https://www.okjob.io/jobs)
-2. [4dayweek.io](https://4dayweek.io)
-3. [fourdayweek.co.uk](https://fourdayweek.co.uk/)
+2. [4DayWeek.io](https://4dayweek.io)
+3. [FourDayWeek.co.uk](https://fourdayweek.co.uk/)
 
 *Note: Only job boards dedicated to 4-Day Week opportunities are included. The sites need to have active listings.*
 
@@ -60,7 +60,7 @@ This segment is split into tools for employers and tools for employees to assist
 
 ### For Employers
 
-- ...
+- [Bring it to Your Workplace] (https://workfour.org/bring-4dw-to-your-workplace)
 
 ### For Employees
 
@@ -68,7 +68,7 @@ This segment is split into tools for employers and tools for employees to assist
 
 ## Resources
 
-The Resources section comprises a compilation of valuable research papers, surveys, discussions, and studies that provide insights into the 4 Day Week implementation and its effects. It excludes links from mainstream news sites and blogs (unless it includes valuable research papers, surveys, or studies).
+The Resources section comprises a compilation of valuable research papers, surveys, discussion groups, and studies that provide insights into the 4 Day Week.
 
 What       | Link                                 |
 ---------------|--------------------------------------|
