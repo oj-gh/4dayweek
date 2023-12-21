@@ -13,6 +13,7 @@ Advocates are pushing for the 4 Day Week in various corners of the globe. Below 
 | 4 Day Week Campaign        | United Kingdom     | https://www.4dayweek.co.uk/                           |
 | WorkFour               | USA           | https://workfour.org/                                 |
 | SmartWorkWeek              | USA           | https://www.smartworkweek.io/                                  |
+| Work Time Reduction Center of Excellence              | Canada           | https://worktimereduction.com/                             |
 
 *Note: Feel free to add more advocates to this table by submitting a pull request with their details.*
 
