@@ -40,6 +40,7 @@ Below you find links to lists of companies that have implemented the 4 Day Week 
 - Buildremote - [339 Companies With 4-Day Work Weeks (Oct 2023)](https://buildremote.co/four-day-week/4-day-work-week-companies/)
 - BuiltIn - [25 Companies With 4-Day Work Weeks](https://builtin.com/company-culture/companies-with-4-day-work-weeks)
 - Rafaelcamargo - [65 companies](https://4dayweek.rafaelcamargo.com/)
+- WorkFour - [over 200 companies and local governments that have shifted to a four day workweek](https://workfour.org/company-directory)
 
 *Note: Instead of individual companies add lists (sites, blog posts, CSVs, etc.) of verifed companies that hire for 4 Day Weeks.*
 
