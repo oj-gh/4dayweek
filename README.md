@@ -8,10 +8,11 @@ Advocates are pushing for the 4 Day Week in various corners of the globe. Below 
 
 | Name              | Country       | Link                                 |
 |-------------------|---------------|--------------------------------------|
-| 4 Day Week Global        | New Zealand     | [4 Day Week Global](https://www.4dayweek.com/)                            |
-| Autonomy        | United Kingdom     | [Autonomy](https://autonomy.work/)                            |
-| 4 Day Week Campaign        | United Kingdom     | [4 Day Week Campaign](https://www.4dayweek.co.uk/)                            |
-| The Four Day Week Campaign               | USA           | [The Four Day Week Campaign](https://workfour.org/)                                  |
+| 4 Day Week Global        | New Zealand     | https://www.4dayweek.com/                           |
+| Autonomy        | United Kingdom     | https://autonomy.work/                           |
+| 4 Day Week Campaign        | United Kingdom     | https://www.4dayweek.co.uk/                           |
+| WorkFour               | USA           | https://workfour.org/                                 |
+| SmartWorkWeek              | USA           | https://www.smartworkweek.io/                                  |
 
 *Note: Feel free to add more advocates to this table by submitting a pull request with their details.*
 
@@ -74,6 +75,7 @@ What       | Link                                 |
 ---------------|--------------------------------------|
 Reddit     | [4DayWorkWeek](https://www.reddit.com/r/4DayWorkWeek/) |
 Reddit     | [FourDayWorkWeek](https://www.reddit.com/r/FourDayWorkWeek/) |
+Research     | [FourDayWeek.co.uk ](https://www.4dayweek.co.uk/research) |
 
 
 
