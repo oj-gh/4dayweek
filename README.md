@@ -60,7 +60,7 @@ This segment is split into tools for employers and tools for employees to assist
 
 ### For Employers
 
-- [Bring it to Your Workplace] (https://workfour.org/bring-4dw-to-your-workplace)
+- [Bring it to Your Workplace](https://workfour.org/bring-4dw-to-your-workplace)
 
 ### For Employees
 
